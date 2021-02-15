@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/*# sourceMappingURL=style.css.map */
